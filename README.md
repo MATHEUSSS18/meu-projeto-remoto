@@ -15,5 +15,7 @@ git status
 - outra mudança (não tá recebendo mudanças)
 
 ```bash
-git add "nome do arquivo"
+git add "MESSAGE"
 ```
+
+Nova mudança finalmente ficando verde essa parada novamente
