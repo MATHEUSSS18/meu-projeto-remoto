@@ -15,10 +15,10 @@ git status
 - outra mudança (não tá recebendo mudanças)
 
 ```bash
-git add "MESSAGE"
+git add "MESSAGE" 
 ```
 
-Nova mudança finalmente ficando verde essa parada novamente
+Aqui eu tenho que verificar se ficou algo not staged ou staged pra ser commitado
 
 - Como verificar as mudanças implementadas:
 
