@@ -19,3 +19,9 @@ git add "MESSAGE"
 ```
 
 Nova mudança finalmente ficando verde essa parada novamente
+
+- Como verificar as mudanças implementadas:
+
+```bash
+git diff
+```
