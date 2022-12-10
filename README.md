@@ -25,3 +25,9 @@ Aqui eu tenho que verificar se ficou algo not staged ou staged pra ser commitado
 ```bash
 git diff
 ```
+
+- Como gravar as mudanças:
+
+```bash
+git commit -m "comentário"
+```
